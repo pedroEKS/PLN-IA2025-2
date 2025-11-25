@@ -69,7 +69,6 @@ python app.py
 
 Abaixo está o resultado da execução do script no terminal:
 ```
-Projetos/NPL/app.py
 Verificando dependências...........
 Todas as dependências estão ok!!!
 
